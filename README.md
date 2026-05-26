@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Himesh%20Dusi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20ML%20Developer%20%C2%B7%20Python%20Architect%20%C2%B7%20Tech%20Builder&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Himesh%20Dusi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20ML%20Developer%20%7C%20Python%20Architect%20%7C%20Tech%20Builder&descAlignY=62&descSize=20" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Engineering+Intelligent+Systems+%F0%9F%A4%96;Bridging+AI+with+Real-World+Impact+%F0%9F%8C%8D;Turning+Ideas+into+Production+Code+%E2%9A%A1;Passionate+About+the+Future+of+Technology+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Engineering+Intelligent+Systems+%F0%9F%A4%96;Bridging+AI+with+Real-World+Impact+%F0%9F%8C%8D;Turning+Ideas+into+Production+Code+%E2%9A%A1;Passionate+About+the+Future+of+Technology+%F0%9F%9A%80"/>
 
 </div>
 
@@ -178,13 +178,13 @@ print(me.greet())
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=himesh-45&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"/>
+<img src="https://streak-stats.demolab.com?user=himesh-45&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himesh-45&theme=github-compact&hide_border=true&radius=8&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himesh-45&theme=react-dark&hide_border=true&radius=8&area=true"/>
 
 </div>
 
@@ -200,7 +200,10 @@ print(me.greet())
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
+
+> ⚙️ To enable this animation, add the [GitHub Action](https://github.com/Platane/snk) to your profile repo (`himesh-45/himesh-45`). Once set up, replace the URL below with:
+> `https://raw.githubusercontent.com/himesh-45/himesh-45/output/github-contribution-grid-snake-dark.svg`
 
 <div align="center">
 
