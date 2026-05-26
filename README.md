@@ -1,237 +1,256 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=260&section=header&text=Himesh%20Dusi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Developer%20|%20Python%20Programmer%20|%20Tech%20Enthusiast&descAlignY=58&descSize=18"/>
-</p>
+<div align="center">
 
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3g5eGQ4dWFlZXQ1ZDB0dzd6ZzJ5YmVxdG9maDNncm5tNnRlaDFzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Himesh%20Dusi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20ML%20Developer%20·%20Python%20Architect%20·%20Tech%20Builder&descAlignY=62&descSize=20" width="100%"/>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Developer;Python+Programmer;Building+Smart+Applications;Exploring+Artificial+Intelligence;Open+Source+Enthusiast"/>
-</p>
+</div>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://github.com/himesh-45">
-    <img src="https://img.shields.io/badge/GitHub-himesh--45-181717?style=for-the-badge&logo=github"/>
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/himesh-dusi-3576b8328">
-    <img src="https://img.shields.io/badge/LinkedIn-Himesh_Dusi-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Engineering+Intelligent+Systems+%F0%9F%A4%96;Bridging+AI+with+Real-World+Impact+%F0%9F%8C%8D;Turning+Ideas+into+Production+Code+%E2%9A%A1;Passionate+About+the+Future+of+Technology+%F0%9F%9A%80"/>
 
-  <a href="https://www.instagram.com/himesh07___">
-    <img src="https://img.shields.io/badge/Instagram-himesh07___-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+</div>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himesh-45&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-</p>
+<br/>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40himesh--45-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22)](https://github.com/himesh-45)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himesh_Dusi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himesh-dusi-3576b8328)
+[![Instagram](https://img.shields.io/badge/Instagram-himesh07__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/himesh07___)
+[![Profile Views](https://komarev.com/ghpvc/?username=himesh-45&label=Profile+Views&color=58a6ff&style=for-the-badge)](https://github.com/himesh-45)
+
+</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2e5e4d4f-6bcb-4d7f-b7d4-6b5b9eecf62b.gif" width="100%">
+## `$ whoami`
 
-# 🚀 About Me
+```python
+class HimeshDusi:
+    name        = "Himesh Dusi"
+    role        = "AI & ML Developer"
+    location    = "India 🇮🇳"
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+    skills = {
+        "AI/ML"      : ["Machine Learning", "ChromaDB", "Semantic Search", "AI Chatbots"],
+        "languages"  : ["Python", "Java", "C", "C++", "JavaScript"],
+        "frontend"   : ["HTML", "CSS", "React", "Responsive Design"],
+        "backend"    : ["Flask", "MySQL", "Firebase"],
+        "hardware"   : ["Arduino", "IoT Sensors", "Automation Systems"],
+        "tools"      : ["Git", "GitHub", "VS Code", "Jupyter Notebook"],
+    }
 
-Hi 👋 I'm **Himesh Dusi**, an aspiring **AI & ML Developer** passionate about building intelligent systems, automation projects, and real-world software solutions.
+    currently_learning = ["Advanced ML", "System Design", "Full Stack", "Deep Learning"]
+    mission            = "Build AI systems that solve real human problems 🌍"
 
-### 💡 What I Do
-- 🤖 AI & Machine Learning
-- 🌐 Full Stack Development
-- 🔧 Arduino & IoT Systems
-- 📊 AI Chatbots & ChromaDB
-- 🧠 Data Structures & Algorithms
+    def greet(self):
+        return "Hey there! 👋 Let's build something remarkable."
 
-### 🌟 Fun Facts
-- 🚀 Love building innovative tech projects
-- 🔥 Exploring AI tools & automation
-- 📚 Continuous learner
-- 💻 Turning ideas into projects
-
----
-
-# ⚡ Tech Stack
-
-## 🚀 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript"/>
-</p>
-
-## 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
-
-## ⚙️ Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=flask,mysql,firebase"/>
-</p>
-
-## 🛠️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,jupyter"/>
-</p>
+me = HimeshDusi()
+print(me.greet())
+```
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2e5e4d4f-6bcb-4d7f-b7d4-6b5b9eecf62b.gif" width="100%">
+## ⚡ What I Build
 
-# 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=himesh-45&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+| Domain | Focus |
+|--------|-------|
+| 🤖 **AI & Machine Learning** | Intelligent chatbots, semantic search, ChromaDB-powered systems |
+| 🌐 **Full Stack Development** | End-to-end web apps with Flask, React, MySQL, Firebase |
+| 🔧 **Arduino & IoT** | Sensor-based automation, real-world hardware control |
+| 📐 **DSA & System Design** | Scalable, efficient code architecture |
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himesh-45&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=himesh-45&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himesh-45&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
+</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2e5e4d4f-6bcb-4d7f-b7d4-6b5b9eecf62b.gif" width="100%">
+## 🛠 Tech Stack
 
-# 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himesh-45&theme=tokyo-night&hide_border=true"/>
-</p>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & Databases**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F3C?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🔥 Featured Projects
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI Chatbot
-- ChromaDB Integration
-- Semantic Search
-- Python + AI
+### 🤖 AI Chatbot with ChromaDB
+> Intelligent conversational agent powered by semantic vector search and ChromaDB.
+
+**Stack:** `Python` `ChromaDB` `AI/ML`
+
+✔️ Vector-based semantic document retrieval  
+✔️ Context-aware conversation handling  
+✔️ Persistent memory across sessions  
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🌾 Farmer Marketplace Platform
+> A direct farmer-to-consumer web marketplace eliminating supply chain middlemen.
 
-### 🌾 Farmer Marketplace
-- Farmer-to-Consumer Platform
-- Web Development
-- Real-world Solution
+**Stack:** `Flask` `MySQL` `HTML/CSS` `JavaScript`
+
+✔️ User auth & product listing system  
+✔️ Clean, accessible UI for rural users  
+✔️ Real-world social impact  
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔧 Arduino Automation
-- Rain Protection System
-- Sensor-based Automation
-- IoT Project
+### 🔧 Arduino Rain Protection System
+> IoT automation system that detects rain and auto-protects outdoor equipment.
+
+**Stack:** `Arduino` `C++` `Sensors` `IoT`
+
+✔️ Real-time moisture sensor integration  
+✔️ Automated servo/relay control  
+✔️ Energy-efficient embedded design  
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🎮 Interactive Web Projects
+> Collection of frontend projects showcasing UI/UX and JS logic.
 
-### 🎮 Web Projects
-- Tic Tac Toe
-- College Management
-- Interactive UI
+**Stack:** `HTML` `CSS` `JavaScript`
+
+✔️ Tic Tac Toe with AI opponent  
+✔️ College Management System  
+✔️ Dynamic, interactive interfaces  
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2e5e4d4f-6bcb-4d7f-b7d4-6b5b9eecf62b.gif" width="100%">
+## 📊 GitHub Analytics
 
-# 💻 Current Learning Journey
+<div align="center">
 
-```python
-class Himesh():
-    def __init__(self):
-        self.learning = [
-            "Machine Learning",
-            "Artificial Intelligence",
-            "System Design",
-            "Full Stack Development",
-            "Advanced Python"
-        ]
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himesh-45&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himesh-45&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8"/>
 
-    def future_goal(self):
-        return "Become a Skilled AI Engineer 🚀"
+</div>
 
-me = Himesh()
-print(me.future_goal())
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=himesh-45&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himesh-45&theme=github-compact&hide_border=true&radius=8&area=true"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=himesh-45&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 📚 Currently Leveling Up
+
+```
+🧠 Machine Learning
+🌐 Full Stack Development
+⚙️  System Design
+🐍 Advanced Python
+🤖 Deep Learning
 ```
 
 ---
 
-# 🧠 AI Quote
+## 💬 Quote I Live By
 
-> "Artificial Intelligence is the new electricity." — Andrew Ng
+<div align="center">
 
----
+> *"The best way to predict the future is to invent it."*
+> — **Alan Kay**
 
-# ⚡ Fun Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2e5e4d4f-6bcb-4d7f-b7d4-6b5b9eecf62b.gif" width="100%">
+## 🤝 Let's Connect & Collaborate
 
-# 🌐 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/himesh-45">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
+I'm always open to exciting collaborations, open-source contributions, and building impactful products together.
 
-  <a href="https://www.linkedin.com/in/himesh-dusi-3576b8328">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/himesh-45)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himesh-dusi-3576b8328)
+[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/himesh07___)
 
-  <a href="https://www.instagram.com/himesh07___">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2575fc,100:6a11cb&height=120&section=footer"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>⭐ Building the Future with AI & Creativity ⭐</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+**⭐ If you find my work valuable, consider starring my repositories — it truly means a lot! ⭐**
+
+</div>
