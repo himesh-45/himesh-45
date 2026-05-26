@@ -3,9 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=260&section=header&text=Himesh%20Dusi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Developer%20|%20Python%20Programmer%20|%20Tech%20Enthusiast&descAlignY=58&descSize=18"/>
 </p>
 
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3g5eGQ4dWFlZXQ1ZDB0dzd6ZzJ5YmVxdG9maDNncm5tNnRlaDFzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
+</p>
+
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Student;Python+Developer;Building+Smart+Applications;Arduino+%26+IoT+Projects;Learning+Something+New+Everyday+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Developer;Python+Programmer;Building+Smart+Applications;Exploring+Artificial+Intelligence;Open+Source+Enthusiast"/>
 </p>
 
 <!-- Social Badges -->
@@ -29,6 +34,8 @@
 </p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2e5e4d4f-6bcb-4d7f-b7d4-6b5b9eecf62b.gif" width="100%">
 
 # 🚀 About Me
 
@@ -75,6 +82,8 @@ Hi 👋 I'm **Himesh Dusi**, an aspiring **AI & ML Developer** passionate about 
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2e5e4d4f-6bcb-4d7f-b7d4-6b5b9eecf62b.gif" width="100%">
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -97,10 +106,20 @@ Hi 👋 I'm **Himesh Dusi**, an aspiring **AI & ML Developer** passionate about 
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2e5e4d4f-6bcb-4d7f-b7d4-6b5b9eecf62b.gif" width="100%">
+
 # 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himesh-45&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -151,6 +170,8 @@ Hi 👋 I'm **Himesh Dusi**, an aspiring **AI & ML Developer** passionate about 
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2e5e4d4f-6bcb-4d7f-b7d4-6b5b9eecf62b.gif" width="100%">
+
 # 💻 Current Learning Journey
 
 ```python
@@ -173,6 +194,12 @@ print(me.future_goal())
 
 ---
 
+# 🧠 AI Quote
+
+> "Artificial Intelligence is the new electricity." — Andrew Ng
+
+---
+
 # ⚡ Fun Developer Quote
 
 <p align="center">
@@ -180,6 +207,8 @@ print(me.future_goal())
 </p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2e5e4d4f-6bcb-4d7f-b7d4-6b5b9eecf62b.gif" width="100%">
 
 # 🌐 Let's Connect
 
