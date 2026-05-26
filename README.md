@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Engineering+Intelligent+Systems+%F0%9F%A4%96;Bridging+AI+with+Real-World+Impact+%F0%9F%8C%8D;Turning+Ideas+into+Production+Code+%E2%9A%A1;Passionate+About+the+Future+of+Technology+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Engineering+Intelligent+Systems+🤖;Bridging+AI+with+Real-World+Impact+🌍;Turning+Ideas+into+Production+Code+⚡;Passionate+About+the+Future+of+Technology+🚀"/>
 
 </div>
 
@@ -71,7 +71,7 @@ print(me.greet())
 
 <div align="center">
 
-**Languages**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -79,20 +79,20 @@ print(me.greet())
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend**
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend & Databases**
+### Backend & Databases
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F3C?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Tools & Platforms**
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -113,6 +113,7 @@ print(me.greet())
 <td width="50%" valign="top">
 
 ### 🤖 AI Chatbot with ChromaDB
+
 > Intelligent conversational agent powered by semantic vector search and ChromaDB.
 
 **Stack:** `Python` `ChromaDB` `AI/ML`
@@ -122,9 +123,11 @@ print(me.greet())
 ✔️ Persistent memory across sessions  
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🌾 Farmer Marketplace Platform
+
 > A direct farmer-to-consumer web marketplace eliminating supply chain middlemen.
 
 **Stack:** `Flask` `MySQL` `HTML/CSS` `JavaScript`
@@ -135,10 +138,12 @@ print(me.greet())
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🔧 Arduino Rain Protection System
+
 > IoT automation system that detects rain and auto-protects outdoor equipment.
 
 **Stack:** `Arduino` `C++` `Sensors` `IoT`
@@ -148,9 +153,11 @@ print(me.greet())
 ✔️ Energy-efficient embedded design  
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🎮 Interactive Web Projects
+
 > Collection of frontend projects showcasing UI/UX and JS logic.
 
 **Stack:** `HTML` `CSS` `JavaScript`
@@ -172,15 +179,20 @@ print(me.greet())
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himesh-45&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himesh-45&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8"/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=himesh-45&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -204,7 +216,7 @@ print(me.greet())
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/himesh-45/himesh-45/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -212,10 +224,10 @@ print(me.greet())
 
 ## 📚 Currently Leveling Up
 
-```
+```txt
 🧠 Machine Learning
 🌐 Full Stack Development
-⚙️  System Design
+⚙️ System Design
 🐍 Advanced Python
 🤖 Deep Learning
 ```
@@ -226,7 +238,7 @@ print(me.greet())
 
 <div align="center">
 
-> *"The best way to predict the future is to invent it."*
+> *"The best way to predict the future is to invent it."*  
 > — **Alan Kay**
 
 </div>
@@ -239,8 +251,12 @@ print(me.greet())
 
 I'm always open to exciting collaborations, open-source contributions, and building impactful products together.
 
+<br/><br/>
+
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/himesh-45)
+
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himesh-dusi-3576b8328)
+
 [![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/himesh07___)
 
 </div>
@@ -251,6 +267,6 @@ I'm always open to exciting collaborations, open-source contributions, and build
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-**⭐ If you find my work valuable, consider starring my repositories — it truly means a lot! ⭐**
+### ⭐ If you find my work valuable, consider starring my repositories ⭐
 
 </div>
