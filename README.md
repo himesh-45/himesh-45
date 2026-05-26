@@ -84,27 +84,29 @@ Hi 👋 I'm **Himesh Dusi**, an aspiring **AI & ML Developer** passionate about 
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2e5e4d4f-6bcb-4d7f-b7d4-6b5b9eecf62b.gif" width="100%">
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=himesh-45&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=himesh-45&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himesh-45&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himesh-45&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=himesh-45&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=himesh-45&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himesh-45&theme=algolia&no-frame=true&row=1&column=7"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=himesh-45&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=himesh-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2e5e4d4f-6bcb-4d7f-b7d4-6b5b9eecf62b.gif" width="100%">
 
