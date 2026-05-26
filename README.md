@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Himesh%20Dusi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20ML%20Developer%20·%20Python%20Architect%20·%20Tech%20Builder&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Himesh%20Dusi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20ML%20Developer%20%C2%B7%20Python%20Architect%20%C2%B7%20Tech%20Builder&descAlignY=62&descSize=20" width="100%"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ---
 
-## `$ whoami`
+## 👨‍💻 About Me
 
 ```python
 class HimeshDusi:
@@ -249,7 +249,7 @@ I'm always open to exciting collaborations, open-source contributions, and build
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 **⭐ If you find my work valuable, consider starring my repositories — it truly means a lot! ⭐**
 
