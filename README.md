@@ -1,19 +1,7 @@
 <!-- Animated Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=HIMESH%20DUSI&fontAlign=50&fontAlignY=40&color=0:0f0c29,25:302b63,50:24243e,75:00c6ff,100:0072ff&fontColor=ffffff&fontSize=70&animation=fadeIn&desc=AI%20%26%20ML%20Developer%20%7C%20Python%20Programmer%20%7C%20Tech%20Innovator&descAlignY=62&descSize=22"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+Building+Intelligent+Systems;🤖+Exploring+Artificial+Intelligence;⚡+Turning+Ideas+Into+Reality;💻+Passionate+About+Innovation"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTQ0aTZ5Y2k4M3A4a2V0d3B4dWQ2YjA2a2p4dXQ1YTVnNXJvbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="450"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=HIMESH%20DUSI&fontAlign=50&fontAlignY=40&color=0:0f0c29,25:302b63,50:24243e,75:00c6ff,100:0072ff&fontColor=ffffff&fontSize=75&animation=twinkling&desc=AI%20%26%20ML%20Developer&descAlignY=62&descSize=22"/>
 
 </div>
 
