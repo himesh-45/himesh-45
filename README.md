@@ -87,21 +87,19 @@ Hi 👋 I'm **Himesh Dusi**, an aspiring **AI & ML Developer** passionate about 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=himesh-45&show_icons=true&theme=radical"/>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himesh-45&layout=compact&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himesh-45&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himesh-45&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himesh-45&theme=github_dark"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himesh-45&theme=github_dark"/>
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himesh-45&theme=radical&row=1&column=6"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himesh-45&theme=github_dark"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himesh-45&theme=github_dark&utcOffset=5.5"/>
 </p>
 # 📈 Contribution Graph
 
