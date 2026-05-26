@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=260&section=header&text=Himesh%20Dusi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Developer%20|%20Python%20Programmer%20|%20Tech%20Enthusiast&descAlignY=58&descSize=18"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3g5eGQ4dWFlZXQ1ZDB0dzd6ZzJ5YmVxdG9maDNncm5tNnRlaDFzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
 </p>
 
 <!-- Coding GIF -->
