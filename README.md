@@ -1,9 +1,7 @@
 <!-- Animated Banner -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=HIMESH%20DUSI&fontAlign=50&fontAlignY=40&color=0:0f0c29,25:302b63,50:24243e,75:00c6ff,100:0072ff&fontColor=ffffff&fontSize=75&animation=twinkling&desc=AI%20%26%20ML%20Developer&descAlignY=62&descSize=22"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Himesh%20Dusi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
 <!-- Coding GIF -->
 <p align="center">
